@@ -1,0 +1,7 @@
+# The key value pairs found below are available within the templates.
+# {{site_name}}, {{url}}, {{copyright}} and {{analytics_code}}
+
+:site_name: R2M Consulting
+:url: http://r2mc.com.au
+:copyright: 2013
+:analytics_code: UA-00000000-0
